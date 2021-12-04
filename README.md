@@ -1,5 +1,4 @@
 # KDDcup2021
-基于CNN-AE/VAE实现
 1．	How to run AE/VAE in our project?
 You can just run the main.py.
 - The time series residual results for all files will be output in the file fold test_residual as txt format;
