@@ -1,5 +1,5 @@
 # KDDcup2021
-1．	How to run AE/VAE in our project?
+How to run AE/VAE in our project?
 You can just run the main.py.
 - The time series residual results for all files will be output in the file fold test_residual as txt format;
 - The reconstruction image compared with original data will be output in the file fold model_result;
